@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/afabbro/leap-for-cybernetic-head#readme",
   "dependencies": {
+    "johnnyfive": "^1.0.0",
     "leapjs": "^0.6.4"
   }
 }
