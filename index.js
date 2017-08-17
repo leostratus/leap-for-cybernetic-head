@@ -1,4 +1,4 @@
-var leap      = require('leapjs')
+var leap  = require('leapjs')
 var controller  = new leap.Controller()
 controller.connect();
 
