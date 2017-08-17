@@ -1,0 +1,23 @@
+{
+  "name": "leap-for-cybernetic-head",
+  "version": "1.0.0",
+  "description": "Code that controls the LEDs in a silicone casting of my head that @ohhoe made.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afabbro/leap-for-cybernetic-head.git"
+  },
+  "keywords": [],
+  "author": "Angelina Fabbro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afabbro/leap-for-cybernetic-head/issues"
+  },
+  "homepage": "https://github.com/afabbro/leap-for-cybernetic-head#readme",
+  "dependencies": {
+    "leapjs": "^0.6.4"
+  }
+}
